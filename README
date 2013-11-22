@@ -1,0 +1,5 @@
+Collect large sets of arbitrary in a high precision logarithmic histograms. The
+histograms can be used:
+
+- to determine percentiles or other quantiles (lineair or logarithmic)
+- to generate histograms with any interval width (lineair or logarithmic)

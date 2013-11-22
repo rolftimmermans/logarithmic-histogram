@@ -1,0 +1,15 @@
+{
+  "author": "Rolf Timmermans",
+  "name": "hist",
+  "version": "1.1.0",
+  "description": "Exponential Histograms",
+  "main": "lib/histogram.js",
+
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha"
+  },
+
+  "devDependencies": {
+    "mocha": ">= 0"
+  }
+}
